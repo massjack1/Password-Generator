@@ -1,4 +1,4 @@
-# cocb24ab6aa3c3532860267c9
+# Password Generator - Javascript Enchancement
 
 ## About Scrimba
 
